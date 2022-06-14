@@ -1,0 +1,19 @@
+[
+    {
+        "name":"First Year",
+        "imageUri":"http://anei.edu.au/wp-content/uploads/2021/05/istockphoto-1165683016-612x612-1.jpg"
+    },
+    {
+        "name":"Second Year",
+        "imageUri":"https://www.reference.com/content/425862/1a711894eadb8e4ff173709059576231.jpg"
+    },
+    {
+        "name":"Third Year",
+        "imageUri":"https://www.thestudentpocketguide.com/wp-content/uploads/Third-year-759x500.jpg"
+    },
+    {
+        "name":"Fourth Year",
+        "imageUri":"https://icytales.com/wp-content/uploads/2017/01/1681064-poster-1280-college-works-initiative.jpg"
+    }
+    
+]

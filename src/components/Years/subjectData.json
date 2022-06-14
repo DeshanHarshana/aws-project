@@ -1,0 +1,67 @@
+[
+    {
+        "year":"First Year",
+        "sub":[
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"}
+    ]
+        
+    },
+    {
+        "year":"Second Year",
+        "sub":[
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"}
+    ]
+    },
+    {
+        "year":"Third Year",
+        "sub":[
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"}
+    ]
+    },
+    {
+        "year":"Fourth Year",
+        "sub":[
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"},
+            {"code":"CSC101S3","name":"Foundations of Computer Science"}
+    ]
+    }
+]

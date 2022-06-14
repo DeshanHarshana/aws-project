@@ -1,0 +1,31 @@
+[
+    {
+        "name":"Physics",
+        "imageUri":"https://www.environmentalscience.org/wp-content/uploads/2018/08/physics-640x416.jpg",
+        "link":""
+    },
+    {
+        "name":"Chemestry",
+        "imageUri":"https://www.thoughtco.com/thmb/CZ2bTzyKt_3GocjnGLPjdBWnQtQ=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545286316-433dd345105e4c6ebe4cdd8d2317fdaa.jpg"
+    },
+    {
+        "name":"Computer Science",
+        "imageUri":"https://fct.kln.ac.lk/images/2019/07/01/wide_sml_computer-science-landing-page.jpg"
+    }
+    ,{
+        "name":"Botny",
+        "imageUri":"https://leverageedu.com/blog/wp-content/uploads/2019/09/BSc-Botany.jpg"
+    }
+    ,{
+        "name":"Zoology",
+        "imageUri":"https://www.centreofexcellence.com/media/image/e2/66/9e8b2a617cb3c7939efb86b128ff.jpeg"
+    },
+    {
+        "name":"Fisheries",
+        "imageUri":"https://www.aquaculturenorthamerica.com/wp-content/uploads/2019/07/292beb8c5a17214dd89a121e2f7520aa.jpg"
+    },
+    {
+        "name":"Mathematics and Statistics",
+        "imageUri":"https://www.univariety.com/uploads/career/images/big_thumb/331609d8_rszpreventing-blood-clots.jpg"
+    }
+]
